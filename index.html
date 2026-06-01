@@ -3420,7 +3420,11 @@ async function bootstrap() {
     console.error(e);
   }
 }
-bootstrap();
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', bootstrap);
+} else {
+  bootstrap();
+}
 
 </script>
 </body>
