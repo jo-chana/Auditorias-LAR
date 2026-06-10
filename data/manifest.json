@@ -43,10 +43,10 @@
       "auditor": "Emilio Merino S."
     },
     {
-      "name": "BLEND",
-      "slug": "blend",
-      "file": "blend.json",
-      "fecha": "2026-04-01",
+      "name": "Nativo",
+      "slug": "nativo",
+      "file": "nativo.json",
+      "fecha": "2026-05-22",
       "auditor": "Emilio Merino S."
     }
   ],
@@ -57,6 +57,6 @@
     "SPOT Nueva Kennedy",
     "SOHO",
     "SPOT Residence",
-    "BLEND"
+    "Nativo"
   ]
 }
